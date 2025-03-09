@@ -1,7 +1,7 @@
 # name
 test
 
-![gif](https://github.com/kamehouse102/xxxx/image/xxxx.gif)
+![gif](https://github.com/kamehouse102/test/image/screenShot.gif)
 
 ## Overview
 概要。基本的に１～２行くらいに収まるようにします。
